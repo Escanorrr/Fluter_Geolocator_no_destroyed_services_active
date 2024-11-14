@@ -49,7 +49,7 @@ public class GeolocatorLocationService extends Service {
   @Override
   public void onCreate() {
     super.onCreate();
-    Log.d(TAG, "Creating service.");
+    Log.d(TAG, "Creating service Riyad.");
   }
 
   @Override
@@ -60,13 +60,17 @@ public class GeolocatorLocationService extends Service {
   @Nullable
   @Override
   public IBinder onBind(Intent intent) {
-    Log.d(TAG, "Binding to location service.");
+    Log.d(TAG, "Binding to location service Riyad.");
     return binder;
   }
 
   @Override
   public boolean onUnbind(Intent intent) {
-    Log.d(TAG, "Unbinding from location service.");
+    Log.d(TAG, "Unbinding from location service Riyad.");
+
+
+    stopSelf(); // This explicitly stops the service
+
     return super.onUnbind(intent);
   }
 
