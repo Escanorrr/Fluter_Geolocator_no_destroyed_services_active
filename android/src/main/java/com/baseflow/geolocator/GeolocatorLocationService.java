@@ -78,6 +78,7 @@ public class GeolocatorLocationService extends Service {
     disableBackgroundMode();
     geolocationManager = null;
     backgroundNotification = null;
+    stopSelf();  // Explicitly stop the service
 
     Log.d(TAG, "Destroyed location service.");
     super.onDestroy();
