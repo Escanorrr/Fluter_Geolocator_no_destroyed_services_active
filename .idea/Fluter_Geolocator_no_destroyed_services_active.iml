@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/geolocator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_android/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_android/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_android/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_android/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_android/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_android/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_apple/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_apple/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_apple/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_apple/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_apple/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_apple/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_linux/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_linux/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_linux/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_linux/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_linux/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_linux/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_platform_interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_platform_interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_platform_interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_web/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_web/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_web/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_web/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_web/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_web/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geolocator_windows/example/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
