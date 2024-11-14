@@ -80,7 +80,7 @@ public class GeolocatorLocationService extends Service {
     backgroundNotification = null;
     stopSelf();  // Explicitly stop the service
 
-    Log.d(TAG, "Destroyed location service.");
+    Log.d(TAG, "Destroyed location service Riyad.");
     super.onDestroy();
   }
 
