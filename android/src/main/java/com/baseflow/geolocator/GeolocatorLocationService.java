@@ -68,9 +68,6 @@ public class GeolocatorLocationService extends Service {
   public boolean onUnbind(Intent intent) {
     Log.d(TAG, "Unbinding from location service Riyad.");
 
-
-    stopSelf(); // This explicitly stops the service
-
     return super.onUnbind(intent);
   }
 
@@ -82,7 +79,6 @@ public class GeolocatorLocationService extends Service {
     disableBackgroundMode();
     geolocationManager = null;
     backgroundNotification = null;
-    stopSelf();  // Explicitly stop the service
 
     Log.d(TAG, "Destroyed location service Riyad.");
     super.onDestroy();
