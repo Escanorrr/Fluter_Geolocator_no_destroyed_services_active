@@ -79,7 +79,7 @@ public class GeolocatorLocationService extends Service {
     disableBackgroundMode();
     geolocationManager = null;
     backgroundNotification = null;
-
+    stop.self();
     Log.d(TAG, "Destroyed location service Riyad.");
     super.onDestroy();
   }
