@@ -73,7 +73,7 @@ public class GeolocatorLocationService extends Service {
 
   @Override
   public void onDestroy() {
-    Log.d(TAG, "Destroying location service.");
+    Log.d(TAG, "Destroying location service Riyad.");
 
     stopLocationService();
     disableBackgroundMode();
